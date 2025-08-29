@@ -1,0 +1,4 @@
+findspark==2.0.1
+pandas==2.3.2
+pyspark==3.4.0
+setuptools==80.9.0
